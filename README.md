@@ -1,4 +1,4 @@
-# Date Picker Flutter GetX
+# Time Picker Flutter GetX
 
 # Donate
 
